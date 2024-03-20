@@ -15,7 +15,6 @@ PieceFood is an application designed for individuals seeking instant recipes bas
 - [ ] As a user, I want to browse a comprehensive list of available recipes.
 - [ ] As a user, I want to view detailed information about a specific recipe.
 - [ ] As a user, I want to contribute new recipes to the platform.
-- [ ] As a user, I want to have the ability to modify existing recipes.
 - [ ] As a user, I want to be able to remove recipes that are no longer relevant to me.
 - [ ] As a user, I want to be able to add products to my basket/cart.
 - [ ] As a user, I want to be able to view the products I have added to my basket/cart.
@@ -27,7 +26,7 @@ PieceFood is an application designed for individuals seeking instant recipes bas
 
 - [ ] As a user, I want to search for recipes by name.
 - [ ] As a user, I want to filter recipes based on available ingredients.
-- [ ] As a user, I want to sort recipes by popularity, preparation time, and other criteria.
+- [ ] As a user, I want to sort recipes by rating, so I can quickly access top-rated recipes.
 
 ### Community:
 
