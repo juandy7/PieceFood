@@ -43,5 +43,4 @@ PieceFood is an application made for people who want instant recipes based on wh
 - As a user, I want to be able to share my recipes on social networks or with other users outside the application.
 
 
-Translated with DeepL.com (free version)
 
